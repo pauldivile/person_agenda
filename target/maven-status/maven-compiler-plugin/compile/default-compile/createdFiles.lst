@@ -1,0 +1,9 @@
+com\itfactory\project\user_service\service\DatabaseInitialService.class
+com\itfactory\project\user_service\console_ui\MenuUtil.class
+com\itfactory\project\user_service\Main.class
+com\itfactory\project\user_service\service\UserTable.class
+com\itfactory\project\user_service\service\UserDao.class
+com\itfactory\project\user_service\console_ui\MenuController.class
+com\itfactory\project\user_service\dto\User.class
+com\itfactory\project\user_service\service\DbManager.class
+com\itfactory\project\user_service\console_ui\EditUserController.class
